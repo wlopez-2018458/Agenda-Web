@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    background-color: #343A40;
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.button {
+    background-color: #343A40;
+}
+
+body {
+    background-color: #343A40;
+}
+
+div [class="accordion-item"] {
+    background-color: #343A40;
+}
+
+.class {
+    background-color: #343A40;
+}

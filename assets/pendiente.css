@@ -1,0 +1,22 @@
+body {
+    background-color: #343A40;
+}
+
+h1 {
+    text-align: center;
+    background-color: #343A40;
+    color: white;
+}
+
+div {
+    color: white;
+    align-items: center;
+}
+
+li {
+    padding-left: 1em;
+ }
+
+ h2 {
+    color: white;
+ }

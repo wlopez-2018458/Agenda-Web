@@ -1,0 +1,39 @@
+.navbar .navbar-nav .nav-link {
+    color: white;
+}
+
+.navbar .form-control,
+.navbar .btn-outline-success {
+    color: white;
+}
+
+.navbar .navbar-nav .dropdown-menu {
+    background-color: orange;
+}
+
+h1 {
+    background-color: #343A40;
+    color: white;
+}
+
+.navbar .form-control {
+    background-color: #343A40;
+    color: white;
+}
+
+.navbar .form-control::placeholder {
+    color: white;
+}
+
+body {
+    background-color: #343A40;
+}
+
+ul {
+    color: white;
+}
+
+input {
+    background-color: #343A40;
+    color: white;
+}
